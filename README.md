@@ -11,7 +11,7 @@ Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/g
 
 Goal | Item | Link to Item
 --- | --- | ---
-Analysis R Script |  run_analysis.R |  [R Script Link]https://github.com/nigel1998/JHUDataScience/blob/main/run_analysis.R "run_analysis.R")
+Analysis R Script |  run_analysis.R |  [R Script Link] (https://github.com/nigel1998/JHUDataScience/blob/main/run_analysis.R "run_analysis.R")
 Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/nigel1998/JHUDataScience/blob/main/tidyData.txt "tidyData.txt")
 Github Repo | Repo |  [Repo Link](https://github.com/nigel1998/JHUDataScience "Click to go to Repo")
 Cookbook | CodeBook.md |  [Repo Link](https://github.com/nigel1998/JHUDataScience/blob/main/CodeBook.md "CodeBook.md")
